@@ -48,11 +48,7 @@ class practical
 	{
 		
 		try {
-			int a=0;
-			int b=100/a;
-			System.out.println(b);
-			}
-		catch(Exception e)
+			int a=0;.e)
 		{
 			System.out.println("arithmetic error occured");
 		}
